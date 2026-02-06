@@ -84,28 +84,22 @@ Collection of efficient scripts for common and complex challenges.
 ### 📊 **GITHUB METRICS**
 
 <div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedtouzani&show_icons=true&hide_border=true&bg_color=000000&title_color=00FF00&text_color=ffffff&icon_color=00FF00" alt="GitHub Stats" />
-  
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedtouzani&hide_border=true&background=000000&ring=00FF00&fire=00FF00&currStreakNum=ffffff&sideNums=00FF00" alt="GitHub Streak" />
   
-</div>
+  <br/><br/>
 
-
-<div align="center">
-  
-  | **Statistics** | **Top Languages** |
-  | :--- | :--- |
-  | <img src="https://github-readme-stats.vercel.app/api?username=ahmedtouzani&show_icons=true&hide_border=true&bg_color=000000&title_color=00FF00&text_color=ffffff&icon_color=00FF00&hide=issues" width="400" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedtouzani&layout=compact&hide_border=true&bg_color=000000&title_color=00FF00&text_color=ffffff&langs_count=6" width="300" /> |
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedtouzani&show_icons=true&hide_border=true&bg_color=000000&title_color=00FF00&text_color=ffffff&icon_color=00FF00&hide=issues" height="150" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedtouzani&layout=compact&hide_border=true&bg_color=000000&title_color=00FF00&text_color=ffffff&langs_count=6" height="150" alt="Top Langs" />
   
 </div>
 
+<br/>
 
 <div align="center">
   
   **GitHub Activity Summary:**
   
-  ![Commits](https://img.shields.io/github/commit-activity/m/ahmedtouzani?color=00FF00&label=COMMIT%20ACTIVITY&style=for-the-badge)
   ![Repositories](https://img.shields.io/badge/REPOSITORIES-10+-00FF00?style=for-the-badge)
   ![Contributions](https://img.shields.io/badge/CONTRIBUTIONS-500+-00FF00?style=for-the-badge)
   

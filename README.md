@@ -80,37 +80,30 @@ Collection of efficient scripts for common and complex challenges.
 </div>
 
 ---
+### 📊 **GITHUB ANALYTICS**
 
-### 📊 **GITHUB METRICS**
 
 <div align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedtouzani&hide_border=true&background=000000&ring=00FF00&fire=00FF00&currStreakNum=ffffff&sideNums=00FF00" alt="GitHub Streak" />
-  
-  <br/><br/>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedtouzani&show_icons=true&hide_border=true&bg_color=000000&title_color=00FF00&text_color=ffffff&icon_color=00FF00&hide=issues" height="150" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedtouzani&layout=compact&hide_border=true&bg_color=000000&title_color=00FF00&text_color=ffffff&langs_count=6" height="150" alt="Top Langs" />
+  [![Followers](https://img.shields.io/github/followers/ahmedtouzani?style=for-the-badge&logo=github&color=00FF00&labelColor=000000)](https://github.com/ahmedtouzani?tab=followers)
+  [![Stars](https://img.shields.io/github/stars/ahmedtouzani?style=for-the-badge&logo=reverbnation&color=00FF00&labelColor=000000)](https://github.com/ahmedtouzani?tab=repositories)
+  [![Commits](https://img.shields.io/github/commit-activity/y/ahmedtouzani?style=for-the-badge&logo=git&color=00FF00&labelColor=000000&label=TOTAL%20COMMITS)](https://github.com/ahmedtouzani)
   
 </div>
 
 <br/>
 
 <div align="center">
-  
-  **GitHub Activity Summary:**
-  
-  ![Repositories](https://img.shields.io/badge/REPOSITORIES-10+-00FF00?style=for-the-badge)
-  ![Contributions](https://img.shields.io/badge/CONTRIBUTIONS-500+-00FF00?style=for-the-badge)
-  
+
   **Most Used Languages:**
   
   ![JavaScript](https://img.shields.io/badge/JavaScript-50%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
   ![Python](https://img.shields.io/badge/Python-30%25-3776AB?style=flat-square&logo=python&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/TypeScript-15%25-3178C6?style=flat-square&logo=typescript&logoColor=white)
   ![Other](https://img.shields.io/badge/Other-5%25-808080?style=flat-square)
-  
+
 </div>
+
 
 ---
 

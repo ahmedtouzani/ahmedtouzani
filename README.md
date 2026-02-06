@@ -1,44 +1,47 @@
-# Hi, I'm Ahmed Touzani <img src="https://media.giphy.com/media/hvRJCLzz8CZTfSnoHh/giphy.gif" width="25px">
+# ⚡ THE ARCHITECT: AHMED TOUZANI
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Bot%20Architect%20&%20Growth%20Partner&fontSize=50&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=120&section=header&text=BEYOND%20THE%20CODE&fontSize=70&fontAlignY=35&animation=twinkling" />
 </p>
 
-### ⚡ About Me
-I'm a **Full-Stack Developer** and **Automation Specialist** based in Oujda, Morocco. I specialize in building high-performance Discord bots, automation scripts, and digital solutions that bridge the gap between code and business growth.
-
-- 🤖 **Bot Expertise:** Building scalable systems like **Raymond** and **ParallelBot** using Node.js & Discord.js.
-- 🐍 **Pythonista:** Developing custom scripts for automation and cybersecurity tools.
-- 🚀 **Growth Focused:** I don't just code; I build tools that drive results and personal branding.
+### 🌑 Deep Dive into Automation
+I specialize in architecting high-performance systems and bespoke scripts. My focus is on efficiency, scalability, and the art of automation.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🚀 Featured Masterpiece: RAYMOND BOT
+> **Raymond** is not just a bot; it's a scalable ecosystem built with **Node.js** to redefine server management and user experience.
+
+- 🛠️ **Architecture:** Built on **discord.js v14** for maximum performance.
+- 🔧 **Core:** Modular system for moderation and voice automation.
+- 🏗️ **Status:** Constantly evolving with new UI/UX components.
+
+---
+
+### 💻 The Script Vault
+I transform complex problems into elegant **Python** & **Node.js** scripts.
+- 🐍 **Automation:** Custom CLI tools and background processors.
+- 🛡️ **Security:** Scripts focused on penetration testing and system auditing.
+- 📈 **Growth:** Tools designed to scale digital services and personal branding.
+
+---
+
+### 🌐 Connect with the Architect
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+<a href="https://www.instagram.com/ah_4__8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+<a href="https://discord.gg/u2DcPn3j3z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
 </p>
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 System Performance
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ahmedtouzani&show_icons=true&theme=tokyonight&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedtouzani&layout=compact&theme=tokyonight&hide=html,css" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedtouzani&theme=tokyonight" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=ahmedtouzani&show_icons=true&theme=transparent&title_color=00ffea&text_color=ffffff&icon_color=00ffea&border_color=00ffea" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedtouzani&layout=compact&theme=transparent&title_color=00ffea&text_color=ffffff&border_color=00ffea" />
 </p>
 
 ---
 
-### 🌑 The Vibe Coder
-> "Coding is the modern-day poetry; every script is a verse of logic."
-
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=ahmedtouzani&label=PROFILE+VIEWS&color=0e75b6&style=flat" />
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20code%20it." />
 </p>

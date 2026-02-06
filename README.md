@@ -83,7 +83,6 @@ Collection of efficient scripts for common and complex challenges.
 
 ### 📊 **GITHUB METRICS**
 
-#### **الحل 1: استخدام GitHub Readme Stats بشكل مباشر**
 <div align="center">
   
   <img src="https://github-readme-stats.vercel.app/api?username=ahmedtouzani&show_icons=true&hide_border=true&bg_color=000000&title_color=00FF00&text_color=ffffff&icon_color=00FF00" alt="GitHub Stats" />
@@ -92,7 +91,7 @@ Collection of efficient scripts for common and complex challenges.
   
 </div>
 
-#### **الحل 2: استخدام GitHub Stats مع عرض اللغات**
+
 <div align="center">
   
   | **Statistics** | **Top Languages** |
@@ -101,7 +100,7 @@ Collection of efficient scripts for common and complex challenges.
   
 </div>
 
-#### **الحل 3: البديل البسيط (إذا لم تظهر الصور)**
+
 <div align="center">
   
   **GitHub Activity Summary:**

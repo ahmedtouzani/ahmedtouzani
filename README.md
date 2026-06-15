@@ -55,7 +55,9 @@ This profile is the proof: the hero, the panels, the avatar, the whole brand sys
 
 <div align="center">
 
-[**Portfolio**](https://ahmedtouzani.github.io/portfolio-v2/) &nbsp;·&nbsp; [**X / Twitter**](https://x.com/mrah48) &nbsp;·&nbsp; [**Instagram**](https://instagram.com/ah_4__8) &nbsp;·&nbsp; [**Hugging Face**](https://huggingface.co/ahmedtouzani39) &nbsp;·&nbsp; [**Email**](mailto:sofyaneahmed333@gmail.com)
+<img src="./assets/connect.webp" alt="Connect & build with me" width="98%" />
+
+[**Portfolio**](https://ahmedtouzani.github.io/portfolio-v2/) &nbsp;·&nbsp; [**X / Twitter**](https://x.com/mrah48) &nbsp;·&nbsp; [**Instagram**](https://instagram.com/ah_4__8) &nbsp;·&nbsp; [**Hugging Face**](https://huggingface.co/ahmedtouzani39) &nbsp;·&nbsp; [**Email**](mailto:touzaniahmed39@gmail.com)
 
 <br/>
 

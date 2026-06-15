@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.png" alt="Ahmed Touzani — Agentic Engineer" width="100%" />
+<img src="./assets/hero.webp" alt="Ahmed Touzani — Agentic Engineer" width="100%" />
 
 <br/>
 
@@ -15,11 +15,11 @@ Not a prompt-writer who can&rsquo;t ship. Not a full-stack dev who doesn&rsquo;t
 
 <div align="center">
 
-<img src="./assets/resvyo.png" alt="Resvyo — ATS-Targeted CV Builder" width="98%" />
+<img src="./assets/resvyo.webp" alt="Resvyo — ATS-Targeted CV Builder" width="98%" />
 
 <br/><br/>
 
-<img src="./assets/dropship.png" alt="dropship-intel — autonomous product-hunting engine" width="98%" />
+<img src="./assets/dropship.webp" alt="dropship-intel — autonomous product-hunting engine" width="98%" />
 
 <br/>
 
@@ -31,7 +31,7 @@ Not a prompt-writer who can&rsquo;t ship. Not a full-stack dev who doesn&rsquo;t
 
 <div align="center">
 
-<img src="./assets/journey.png" alt="The journey — from web pages to autonomous agents" width="98%" />
+<img src="./assets/journey.webp" alt="The journey — from web pages to autonomous agents" width="98%" />
 
 </div>
 
@@ -39,7 +39,7 @@ Not a prompt-writer who can&rsquo;t ship. Not a full-stack dev who doesn&rsquo;t
 
 <div align="center">
 
-<img src="./assets/stack.png" alt="Stack — measured from real repository data" width="98%" />
+<img src="./assets/stack.webp" alt="Stack — measured from real repository data" width="98%" />
 
 </div>
 
